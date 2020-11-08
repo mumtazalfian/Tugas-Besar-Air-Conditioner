@@ -2,26 +2,36 @@ from os import system
 
 # Program membuat remote ac dengan fiturnya
 
-# Kamus
 
-# Algoritma
 
+
+
+# KAMUS
+
+
+
+
+
+# ALGORITMA
+
+
+#-Penetapan-variabel------------------------------
 switch = True
 temp = 18
 mode = 1
 fan = 2
 swing = ''
 
+
+#-Pembuatan-function------------------------------
 def clear():
     system("cls")
 
+
 def visual():
-
     if switch == True:
-
         print(f'Temp: {temp}   '  + f'Fan: {fan}')
         print(f'Mode: {mode}    ' + f'Swing: {swing}')
-
     else:
         print("OFF")
 
@@ -101,9 +111,9 @@ def remote():
         swing = "Off"
 
 
+#-Program-yg-dijalankan---------------------------
 switch = True
 while switch == True:
     remote()
-
 else:
     visual()
