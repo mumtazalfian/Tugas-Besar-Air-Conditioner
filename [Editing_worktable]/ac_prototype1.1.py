@@ -39,7 +39,6 @@ def visual():
 def remote():
     global switch, temp, mode, fan, swing
 
-    clear()
     visual()
 
     print("""
@@ -109,9 +108,12 @@ def remote():
     elif remote_input == 8:
         
         swing = "Off"
+    clear()
 
 
 #-Program-yg-dijalankan---------------------------
+clear()
+
 switch = True
 while switch == True:
     remote()
