@@ -1,6 +1,6 @@
 # Deskripsi program
 
-## Run program [disini](https://colab.research.google.com/drive/1hmU-vFgAzdJXKRHhvQ2WbcVSb6f5mHim?usp=sharing)
+## Run program [disini](https://colab.research.google.com/drive/1bhN-laopMbxqfn-GfMsdRszeKAD2-Gx_?usp=sharing)
 
 v1.0 = File awal buatan anca
 
