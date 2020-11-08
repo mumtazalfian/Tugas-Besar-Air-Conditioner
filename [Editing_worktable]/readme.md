@@ -1,6 +1,6 @@
 # Deskripsi program
 
-Run => bit.ly/ac_prototype
+## Run program [disini](https://colab.research.google.com/drive/1hmU-vFgAzdJXKRHhvQ2WbcVSb6f5mHim?usp=sharing)
 
 1.0 = File awal buatan anca
 
