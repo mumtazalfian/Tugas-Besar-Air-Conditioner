@@ -19,10 +19,8 @@ def visual():
 
     if switch == True:
 
-        print(f'Temp: {temp}')
-        print(f'Mode: {mode}')
-        print(f'Fan: {fan}')
-        print(f'Swing: {swing}')
+        print(f'Temp: {temp}   '  + f'Fan: {fan}')
+        print(f'Mode: {mode}    ' + f'Swing: {swing}')
 
     else:
         print("OFF")
@@ -109,11 +107,3 @@ while switch == True:
 
 else:
     visual()
-
-
-
-
-
-
-
-
