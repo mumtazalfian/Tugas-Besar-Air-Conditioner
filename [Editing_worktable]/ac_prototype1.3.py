@@ -131,7 +131,7 @@ def remote():
             energy_s = "OFF"
     
     
-    clear_output()
+    clear_output("cls")
 
 
 #-Program-yg-dijalankan---------------------------
