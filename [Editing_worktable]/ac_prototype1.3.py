@@ -1,4 +1,5 @@
 from os import system
+from IPython.display import clear_output
 
 #  Anggota Kelompok:
 #   1. Adiyansa Prasetya Wicaksana (16520227)
@@ -30,6 +31,7 @@ energy_s = 'OFF'
 #-Pembuatan-function------------------------------
 def clear():
     system("cls")
+    clear_output()
 
 
 def visual():
