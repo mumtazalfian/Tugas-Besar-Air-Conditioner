@@ -1,6 +1,6 @@
 ## Run program [disini](https://colab.research.google.com/drive/1Eb84VIp2XLBe1S4rPlrzKwtVirl-HHbf?usp=sharing)
 
-Pengetesan online dilakukan di google colab, kelemahannya adalah fungsi *clear( )* tidak dapat dijalankan [karena bukan windows system]
+Pengetesan online dilakukan di [google colab](https://colab.research.google.com/drive/1Eb84VIp2XLBe1S4rPlrzKwtVirl-HHbf?usp=sharing), kelemahannya adalah fungsi *clear( )* tidak dapat dijalankan [karena bukan windows system]
 
 # Deskripsi program
 
