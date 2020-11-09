@@ -30,7 +30,6 @@ energy_s = 'OFF'
 
 #-Pembuatan-function------------------------------
 def clear():
-    clear_output()
 
 
 def visual():
@@ -133,7 +132,8 @@ def remote():
         else:#energy_s=="ON"
             energy_s = "OFF"
     
-    clear()
+    
+    clear_output()
 
 
 #-Program-yg-dijalankan---------------------------
