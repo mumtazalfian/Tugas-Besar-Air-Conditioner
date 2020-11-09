@@ -31,7 +31,6 @@ energy_s = 'OFF'
 #-Pembuatan-function------------------------------
 def clear():
     clear_output()
-    system("cls")
 
 
 def visual():
