@@ -29,8 +29,6 @@ anti_b = 'OFF'
 energy_s = 'OFF'
 
 #-Pembuatan-function------------------------------
-def clear():
-
 
 def visual():
     if switch == True:
@@ -137,7 +135,7 @@ def remote():
 
 
 #-Program-yg-dijalankan---------------------------
-clear()
+
 
 switch = True
 while switch == True:
