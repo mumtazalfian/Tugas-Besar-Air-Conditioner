@@ -18,7 +18,7 @@ from os import system
 # ALGORITMA
 
 
-#-Penetapan-variabel------------------------------
+#-Penetapan-variabel------------------------------------------------------------
 switch = True
 temp = 18
 mode = 1
@@ -27,7 +27,7 @@ swing = 'continously'
 anti_b = 'OFF'
 energy_s = 'OFF'
 
-#-Pembuatan-function------------------------------
+#-Pembuatan-function------------------------------------------------------------
 def clear():
     system("cls")
 
@@ -135,7 +135,7 @@ def remote():
     clear()
 
 
-#-Program-yg-dijalankan---------------------------
+#-Program-yg-dijalankan---------------------------------------------------------
 clear()
 
 switch = True
