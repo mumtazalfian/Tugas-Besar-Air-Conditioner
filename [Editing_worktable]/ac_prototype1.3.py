@@ -1,5 +1,5 @@
 from os import system
-from IPython.display import clear_output
+from google.colab import output
 
 #  Anggota Kelompok:
 #   1. Adiyansa Prasetya Wicaksana (16520227)
@@ -131,7 +131,7 @@ def remote():
             energy_s = "OFF"
     
     
-    clear_output("cls")
+    output.clear()
 
 
 #-Program-yg-dijalankan---------------------------
