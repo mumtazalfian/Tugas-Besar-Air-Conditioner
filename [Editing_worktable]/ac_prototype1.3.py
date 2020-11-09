@@ -23,7 +23,7 @@ switch = True
 temp = 18
 mode = 1
 fan = 2
-swing = 'swing'
+swing = 'continously'
 anti_b = 'OFF'
 energy_s = 'OFF'
 
@@ -114,8 +114,8 @@ def remote():
         elif swing == "mid":
              swing  = "down"
         elif swing == "down":
-             swing  = "swing"
-        else:#swing == "swing"
+             swing  = "continously"
+        else:#swing == "continously"
               swing  = "up"
 
     elif remote_input == 8:
