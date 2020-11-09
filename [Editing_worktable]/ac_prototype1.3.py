@@ -1,5 +1,4 @@
 from os import system
-from google.colab import output
 
 #  Anggota Kelompok:
 #   1. Adiyansa Prasetya Wicaksana (16520227)
@@ -29,6 +28,9 @@ anti_b = 'OFF'
 energy_s = 'OFF'
 
 #-Pembuatan-function------------------------------
+def clear():
+    system("cls")
+
 
 def visual():
     if switch == True:
@@ -130,12 +132,11 @@ def remote():
         else:#energy_s=="ON"
             energy_s = "OFF"
     
-    
-    output.clear()
+    clear()
 
 
 #-Program-yg-dijalankan---------------------------
-
+clear()
 
 switch = True
 while switch == True:
